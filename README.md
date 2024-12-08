@@ -2,4 +2,4 @@
 # Author: [Fetiya Kedir]
 # Date: [2024-12-08]
 #
-# This is a simple Python program that asks the user for their name and age, then prints out
+
